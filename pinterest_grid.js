@@ -22,7 +22,7 @@
             padding_y: 10,
             no_columns: 3,
             margin_bottom: 50,
-            single_column_breakpoint: 700
+            single_column_breakpoint: 1000
         },
         columns,
         $article,
